@@ -5,4 +5,16 @@
 目的：更直观的看到疫情变化情况  
 
 ## 人数统计总表
-![image](https://github.com/mai-lang-chai/Modularize-Penetration/blob/master/pic/%E9%AA%8C%E8%AF%81%E7%A0%81%E5%AE%89%E5%85%A8.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/excel.png)
+## 累计确诊病例趋势
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/quezheng.png)
+## 累计疑似病例趋势
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/yisi.png)
+## 累计医学观察趋势
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/yixue.png)
+## 累计死亡人数趋势
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/death.png)
+## 累计康复人数趋势
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/kangfu.png)
+## 其他国家累计确诊人数趋势
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/other.png)
