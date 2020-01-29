@@ -1,7 +1,9 @@
 # Wuhan2020  武汉疫情各类人数统计  
+
 数据来源：[中华人民共和国国家卫生健康委员会 - NHC](http://www.nhc.gov.cn)  
 目的：更直观的看到疫情变化情况  
 更新时间：次日12点  
+
 ---
 ## 人数统计总表
 ![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/excel.png)
