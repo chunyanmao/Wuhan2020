@@ -6,16 +6,16 @@
 
 ---
 ## 人数统计总表
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/excel.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/excel1.png)
 ## 累计确诊病例趋势
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/quezheng.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/quezheng1.png)
 ## 累计疑似病例趋势
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/yisi.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/yisi1.png)
 ## 累计医学观察趋势
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/yixue.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/yixue1.png)
 ## 累计死亡人数趋势
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/death.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/death1.png)
 ## 累计康复人数趋势
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/kangfu.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/kangfu1.png)
 ## 其他国家累计确诊人数趋势(泰国、日本、新加坡、马来西亚、澳大利亚、法国、美国、韩国、德国、加拿大、越南、尼泊尔、柬埔寨、斯里兰卡、阿联酋、芬兰)
-![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/other.png)
+![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/other1.png)
