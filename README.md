@@ -17,5 +17,5 @@
 ![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/death.png)
 ## 累计康复人数趋势
 ![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/kangfu.png)
-## 其他国家累计确诊人数趋势(泰国、日本、韩国、美国、越南、新加坡、马来西亚、尼泊尔、法国、澳大利亚)
+## 其他国家累计确诊人数趋势(泰国、日本、新加坡、马来西亚、澳大利亚、法国、美国、韩国、德国、加拿大、越南、尼泊尔、柬埔寨、斯里兰卡、阿联酋、芬兰)
 ![image](https://github.com/mai-lang-chai/Wuhan2020/blob/master/pic/other.png)
